@@ -1,4 +1,4 @@
-15 Themes / 15 Stories — Design Philosophy 🎨
+# 15 Themes / 15 Stories — Design Philosophy 🎨
 A scroll-through demonstration of fifteen distinct design philosophies, each applied to a different brand, person, or business — all built with the same fundamentals (HTML, CSS, JavaScript) and zero dependencies. The same career story, the same business pitch, the same form fields can feel radically different depending on the design language wrapping them. This project proves it.
 
 👤 Author
